@@ -1,2 +1,3 @@
-# tc1004.so
-Sistema Operativo
+# Bienvenidos al curso t1004
+
+
