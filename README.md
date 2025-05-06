@@ -1,2 +1,1 @@
-# Bienvenidos al curso t1004
-# wooo
+# Primera práctica en uso de Github 
